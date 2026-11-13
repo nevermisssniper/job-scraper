@@ -98,3 +98,9 @@ Add OPENAI_API_KEY to your .env file to enable job filtering using OpenAI’s GP
 Licensing
 
 Look at license.txt
+
+
+
+## Interactive workbench (2026-11-13)
+
+Run `python serve_demo.py`, then open <http://127.0.0.1:8000>. See [QUICKSTART.md](QUICKSTART.md) for core commands, tests, provenance and remaining requirements.

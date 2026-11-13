@@ -1,0 +1,20 @@
+[
+  {
+    "id": "job-scraper",
+    "name": "Access / Jobs",
+    "category": "Applications",
+    "headline": "Opportunity without the noise.",
+    "description": "Filter a sample opportunity board, save listings and export a shortlist.",
+    "mode": "jobs",
+    "maturity": "Existing project",
+    "disclosure": "Fictional listings for interface testing. No live job openings claimed.",
+    "features": [
+      "Education filters",
+      "Saved shortlist",
+      "Persistent ingestion"
+    ],
+    "remaining": "Live sources need explicit adapters and source-specific validation; unknown education stays unknown.",
+    "number": "06",
+    "repo": "https://github.com/nevermisssniper/job-scraper"
+  }
+]
